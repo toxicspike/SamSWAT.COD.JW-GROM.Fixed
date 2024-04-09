@@ -9,3 +9,9 @@ This mod was originally made by <a href="https://github.com/SamSWAT911">SamSWAT9
 
 In their absence, I have decided to update his GROM mod for 3.8. 
   
+![380](https://github.com/toxicspike/SamSWAT.COD.JW-GROM.Fixed/assets/10299219/1ad985bc-a685-4614-a8e7-d38cc706895c)
+
+# MIL-SIM: JW GROM
+
+Server mod for  [SPT-AKI](https://hub.sp-tarkov.com/) emulator that will add the JW GROM outfit into Escape From Tarkov.
+This mod contains a plate carrier, helmet, gas mask and balaclava, as well as an outfit set for Ragman's outfit service.
