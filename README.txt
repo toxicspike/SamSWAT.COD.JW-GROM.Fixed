@@ -1,6 +1,3 @@
-To install, drag and drop the SamSWAT-CoDMW_JWGROM_Fixed folder into the mods folder located in 'user/mods'.
+This mod was originally made by https://github.com/SamSWAT911.
 
-——————————————————————————————————————————————————————————————————————————————————————————————
-
-Author: SamSWAT
-Infinity Ward [Call of Duty: Warzone] — Models & Textures
+In their absence, I have decided to update his GROM mod for 3.8. 
