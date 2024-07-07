@@ -1,4 +1,4 @@
-To install, drag and drop the SamSWAT.COD.JW-GROM.Fixed-3.8.0 folder into the mods folder located in 'user/mods'.
+To install, drag and drop the SamSWAT.COD.JW-GROM.Fixed folder into the mods folder located in 'user/mods'.
 
 ——————————————————————————————————————————————————————————————————————————————————————————————
 
