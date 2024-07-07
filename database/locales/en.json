@@ -1,0 +1,44 @@
+{
+	"templates": {
+		"JWGROMUPPERBODYSUIT": {
+			"Name": "Mil-Sim: JW GROM Upper"
+		},
+		"JWGROMUPPERBODYSUIT2": {
+			"Name": "Mil-Sim: JW GROM Hands only"
+		},
+		"JWGROMPANTSSUIT": {
+			"Name": "Mil-Sim: JW GROM Lower"
+		},
+		
+		"rig_milsim_jw_grom_1_1": {
+			"Name": "Mil-Sim: JW GROM armored rig",
+			"ShortName": "JW GROM rig",
+			"Description": "Tactical rig with additional 4-class armor plates used by Mil-Sim: JW GROM operator."
+		},
+		"balaclava_milsim_jw_grom_1_1": {
+			"Name": "Mil-Sim: JW GROM balaclava",
+			"ShortName": "Balaclava",
+			"Description": "Balaclava used by Mil-Sim: JW GROM operator."
+		},
+		"helmet_milsim_jw_grom_1_1": {
+			"Name": "Mil-Sim: JW GROM helmet",
+			"ShortName": "JW GROM helmet",
+			"Description": "Ballistic helmet with a variety of attachments used by Mil-Sim: JW GROM operator."
+		},
+		"headset_milsim_jw_grom_1_1": {
+			"Name": "Mil-Sim: JW GROM Headset",
+			"ShortName": "Headset",
+			"Description": "Active headset used by Mil-Sim: JW GROM operator."
+		},
+		"battery_milsim_jw_grom_1_1": {
+			"Name": "Mil-Sim: JW GROM NVG battery",
+			"ShortName": "Battery",
+			"Description": "The main battery for the NVG, attaches to the back of the helmet used by Mil-Sim: JW GROM operator."
+		},
+		"gasmask_milsim_jw_grom_1_1": {
+			"Name": "Mil-Sim: JW GROM Gas Mask",
+			"ShortName": "GROM gas mask",
+			"Description": "Gas mask used by Mil-Sim: JW GROM operator for individual protection of respiratory organs, eyes and face skin."
+		}
+	}
+}
