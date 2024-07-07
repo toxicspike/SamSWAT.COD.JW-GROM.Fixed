@@ -615,7 +615,7 @@
             "LootExperience": 20,
             "ExamineExperience": 10,
             "HideEntrails": false,
-            "RepairCost": 0,
+            "RepairCost": 150,
             "RepairSpeed": 0,
             "ExtraSizeLeft": 0,
             "ExtraSizeRight": 0,
